@@ -1320,7 +1320,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/R1F4T-2-0/Test/blob/main/Test.txt").text
+	r1=requests.get("https://github.com/Termux-mehedi/new-project-2023/blob/main/Approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
